@@ -65,16 +65,16 @@ public class FireBullet : MonoBehaviour
 
     void OnTriggerEnter2D (Collider2D target)
     {
-        if (target.gameObject.tag == MyTags.BEETLE_TAG || target.gameObject.tag == MyTags.SNAIL_TAG)
+        if (target.gameObject.tag == MyTags.BEETLE_TAG || target.gameObject.tag == MyTags.SNAIL_TAG || target.gameObject.tag == MyTags.SPIDER_TAG)
         {
             // To play the animation explode, then desactivate it
             anim.Play("ExplodeAnimation");
 
-            // When we touch one of the game objects, we can't move it anymore (for each clone object)
+            // When the bullet touches one of the game objects, it stops
             canMove = false;
 
             // To desactivate the bullet
-            StartCoroutine (DisableBullet(0.05f));
+            StartCoroutine (DisableBullet (0.05f));
         }
     }
 
