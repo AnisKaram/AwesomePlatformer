@@ -5,6 +5,36 @@ TextureImporter:
   - first:
       213: 1083293596522200120
     second: Tileset_0_0
+  - first:
+      213: -6242852391133734652
+    second: Flower 1_Tileset 0
+  - first:
+      213: -3974486619603688460
+    second: Flower 2_Tileset 0
+  - first:
+      213: 5094925392225783407
+    second: Buch 1_Tileset 0
+  - first:
+      213: 8822673002627353747
+    second: Buch 2_Tileset 0
+  - first:
+      213: -3718685575235616533
+    second: Buch 3_Tileset 0
+  - first:
+      213: -22966558550420818
+    second: Buch 4_Tileset 0
+  - first:
+      213: 1279715919969511338
+    second: Flower 3_Tileset 0
+  - first:
+      213: -8922325234795961902
+    second: Buch 5_Tileset 0
+  - first:
+      213: 5720185737757799599
+    second: Buch 6_Tileset 0
+  - first:
+      213: -8481210376466007974
+    second: Water 1_tileset 0
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -134,7 +164,7 @@ TextureImporter:
         width: 203
         height: 135
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -142,6 +172,216 @@ TextureImporter:
       bones: []
       spriteID: 83c392859c1a80f00800000000000000
       internalID: 1083293596522200120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower 1_Tileset 0
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 204
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409964983deec59a0800000000000000
+      internalID: -6242852391133734652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower 2_Tileset 0
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3aaf92a79c7d8c0800000000000000
+      internalID: -3974486619603688460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buch 1_Tileset 0
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 68
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e4cb076afc4b640800000000000000
+      internalID: 5094925392225783407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buch 2_Tileset 0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 68
+        width: 125
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c4803f95e607a70800000000000000
+      internalID: 8822673002627353747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buch 3_Tileset 0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 131
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be046b8fb23946cc0800000000000000
+      internalID: -3718685575235616533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buch 4_Tileset 0
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 136
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea293e369086eaff0800000000000000
+      internalID: -22966558550420818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower 3_Tileset 0
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 136
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7e13759d672c110800000000000000
+      internalID: 1279715919969511338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buch 5_Tileset 0
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 136
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1ab71b8788d2480800000000000000
+      internalID: -8922325234795961902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buch 6_Tileset 0
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 130
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa43f442f9e226f40800000000000000
+      internalID: 5720185737757799599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water 1_tileset 0
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 340
+        width: 67
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58f2651910bc4a80800000000000000
+      internalID: -8481210376466007974
       vertices: []
       indices: 
       edges: []
